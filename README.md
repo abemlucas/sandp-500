@@ -9,6 +9,11 @@ Predicting price of S&P 500 stock market index
 -Build a backtesting engine to more accurately measure accuracy
 -Improve the accuracy of the model
 
+#Prequiste Installations Needed
+-pip install yfinance
+-pip install matplotlib
+-pip install scikit-learn
+
 # Local Setup
 
 -Jupyer Lab
@@ -17,3 +22,10 @@ Predicting price of S&P 500 stock market index
 -pandas
 -yfinance
 -scikit-learn
+
+#Things to do:
+
+Correlating S&P with other exchanges (outside with US)
+News/General macroeconomic conditions/inflation
+key stocks/sectors news/tracking
+increase resolution: hour-to-hour prediction, minute-to-minute and tick data
