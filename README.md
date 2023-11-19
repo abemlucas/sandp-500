@@ -1,8 +1,8 @@
 # S&P-500
 
-Predicting price of S&P 500 stock market index
+**Predicting price of S&P 500 stock market index**
 
-**Steps**
+# Steps
 
 - Download data using yahoo finanace package
 - Create an initial machine learning model and estimate accuracy
